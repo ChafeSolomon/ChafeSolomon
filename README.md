@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Chafe! <a href="https://www.linkedin.com/in/chafesolomon/"> </a>
 <h3 align="center">Passionate about DevOps, Linux, and Cloud Engineering.</h3>
-  
+<p> Welcome to my GitHub Repo... listed are links to my different projects </p>  
 
 <h2 style="display: inline;">🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/chafesolomon" style="color: #0077B5; border: 1px solid #0077B5;">
