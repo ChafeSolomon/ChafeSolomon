@@ -9,8 +9,6 @@
 
   
 ## 🧰 Languages and Tools:
-<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-
 <a href="https://github.com/ChafeSolomon/python">
     <img align="left" alt="Terraform" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </a>
